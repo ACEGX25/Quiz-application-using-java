@@ -20,7 +20,7 @@
             String username = (String) session.getAttribute("username");
     %>
         <div class="app">
-            <h1>PANCHAYAT Quiz</h1>
+            <h1>Coding Quiz Master</h1>
             <div class="quiz">
                 <h2 id="question">Question Here</h2>
                 <div id="answerb">
